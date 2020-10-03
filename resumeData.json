@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name": "Nirav Mehta",
+    "occupation": "Front-end Developer",
+    "description": "Front-end Developer by Day, Founder && Freelancer by Night.",
+    "image": "nirav.png",
+    "bio": "My name is Nirav, I'm a Front-end Developer. Currently I'm working as a freelancer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "Niravmehta1997@yahoo.com",
+    "phone": "+48 739 470 652",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "London",
+      "state": "UK",
+      "zip": "ABC 123"
+    },
+    "website": "https://github.com/niravmehta2",
+    "resumedownload": "https://drive.google.com/file/d/11eybMg3vWkLlQKENwQLVoKsJ9qJsy9DD/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/niravmehta1997/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nirav-mehta-83511013a",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/desk_programmer/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/niravmehta2",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Fedaration university of australia",
+        "degree": "Diploma in Computer Science",
+        "graduated": "January 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance",
+        "title": "Front-end developer",
+        "years": "April 2020 - Present",
+        "description": "Teaching students and making web apps."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mehta Communication",
+        "category": "Mobile shop website built with HTML, CSS and Bootstrap ",
+        "image": "mehta.png",
+        "url": "https://niravmehta2.github.io/Mehta-Communication/"
+      },
+      {
+        "title": "Store Locator app",
+        "category": "Store locator built with HTML, CSS and Javascript",
+        "image": "Store.png",
+        "url": "https://niravmehta2.github.io/Store-Locator/"
+      },
+      {
+        "title": "Text Editor app",
+        "category": "Text Editor built with HTML, CSS and Javascript",
+        "image": "text.png",
+        "url": "https://niravmehta2.github.io/text-editor/"
+      },
+      {
+        "title": "NUNO bootstrap",
+        "category": "NUNO bootstrap built with HTML, CSS and Bootstrap",
+        "image": "Nuno.png",
+        "url": "https://niravmehta2.github.io/Nunobootstrap/"
+      },
+      {
+        "title": "Newbie bootstrap",
+        "category": "Newbie bootstrap built with HTML, CSS and Bootstrap",
+        "image": "newbie.png",
+        "url": "https://niravmehta2.github.io/bootstrap/"
+      },
+      {
+        "title": "Amazon clone",
+        "category": "Amazon clone built with HTML, CSS and reactjs",
+        "image": "amazon.png",
+        "url": "https://challenge-f6338.web.app/"
+      },
+      {
+        "title": "weather app",
+        "category": "weather built with HTML, CSS and javascript",
+        "image": "weather.png",
+        "url": "https://niravmehta2.github.io/weather-app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Nirav Mehta must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
